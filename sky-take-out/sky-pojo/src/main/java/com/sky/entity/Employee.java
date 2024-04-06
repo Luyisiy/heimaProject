@@ -1,5 +1,6 @@
 package com.sky.entity;
 
+import io.swagger.v3.oas.annotations.parameters.RequestBody;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
